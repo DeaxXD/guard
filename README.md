@@ -1,13 +1,13 @@
 # Discord Guard Bot
 
- - [Discord Guard Bot](https://github.com/beT4w/betaGuard)
+ - [Discord Guard Bot](https://github.com/DeaxXD/guard)
       - [Kurulum](#kurulum)
       - [İçerikler](#İçerikler)
       - [İletişim](#İletişim)
       - [FAQ](#faq)
 
 <div align="center">
-   <a href="https://github.com/BetaWile">
+   <a href="https://github.com/DeaxXD">
       <img src="https://betaaa.has-a-hot.mom/55orRHk8J.gif">
    </a>
 </div>
@@ -16,10 +16,10 @@
 * İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
 * Bu projeyi zip halinde indir.
 * Herhangi bir klasöre zipi çıkart.
-* Daha sonra `beta`/`Settings`/`Config.json` dosyalardaki bilgileri doldur.
+* Daha sonra `koruma`/`Settings`/`Config.json` dosyalardaki bilgileri doldur.
 * Sonra klasörün içerisinde bir `powershell` ya da `cmd` penceresi aç.
 * ```npm install``` yazarak tüm modülleri kur.
-* Kurulum bittikten sonra ```node beta.js``` yaz ve botu başlat.
+* Kurulum bittikten sonra ```node index.js``` yaz ve botu başlat.
 
 
 ## Botun İntentlerini Açmayı Unutma!

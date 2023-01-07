@@ -1,0 +1,18 @@
+{
+
+    "Bot": {
+        "token": "MTA1NjE2NjI4MDg0OTI4MTExNQ.G_LtOJ.lyDZ6QEqzODzkyivZZpDlBpOBCunkfGXgmv0Hc",
+        "owner": "990186530767249419",
+        "server": "1056112698280128612",
+        "activity": "Billy was here!"
+    },
+
+    "Guard": {
+        "safezone": ["931200979959947345", "990983354826514474","981941353959260200"],
+        "safebots": ["1056166965531643904", "1056167094649098281", "1056167324845084712"],
+        "jail": "1056135136850223145",
+        "booster": "",
+        "log": "1056166681090740284"
+    }
+    
+}
